@@ -1,6 +1,6 @@
-[submodule "Keebio-Parts.pretty"]
-	path = Keebio-Parts.pretty
-	url = https://github.com/keebio/Keebio-Parts.pretty.git
-[submodule "Molex-0548190589.pretty"]
-	path = Molex-0548190589.pretty
+[submodule "kiCad/Molex.pretty"]
+	path = kiCad/Molex.pretty
 	url = https://github.com/ai03-2725/Molex-0548190589.pretty
+[submodule "kiCad/Keebio-Parts.pretty"]
+	path = kiCad/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
